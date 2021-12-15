@@ -1,0 +1,147 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+     },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"1",
+      "skin_url":"https://cldup.com/IWj7NUx3qd.png",
+      "view_skin":"https://cldup.com/ExmuTYtAAI.png"
+    },
+    {
+      "id":2,
+      "name_skin":"2",
+      "skin_url":"https://cldup.com/lOesxwhL3q.png",
+      "view_skin":"https://cldup.com/vwpnIA4wo6.png"
+    },
+    {
+      "id":3,
+      "name_skin":"3",
+      "skin_url":"https://cldup.com/tgU0cFNBhH.png",
+      "view_skin":"https://cldup.com/2dJmn5slsH.png"
+    },
+
+    {
+      "id":4,
+      "name_skin":"4",
+       "skin_url":"https://cldup.com/QYunWliTMq.png",
+      "view_skin":"https://cldup.com/8ii4alWGP8.png"
+    },
+    {
+      "id":5,
+      "name_skin":"5",
+       "skin_url":"https://cldup.com/UhvejF_sqP.png",
+      "view_skin":"https://cldup.com/Zjzpjot84d.png"
+    },
+    {
+      "id":6,
+      "name_skin":"6",
+       "skin_url":"https://cldup.com/-6qdiQT7R4.png",
+      "view_skin":"https://cldup.com/f6d6AWcIrP.png"
+    },
+
+
+    {
+      "id":7,
+      "name_skin":"7",
+       "skin_url":"https://cldup.com/t-GIUKkJUX.png",
+      "view_skin":"https://cldup.com/1cMp2Zge-i.png"
+    },
+    {
+      "id":8,
+      "name_skin":"8",
+      "skin_url":"https://cldup.com/akOP-xluQf.png",
+      "view_skin":"https://cldup.com/ThvETyiaZi.png"
+    },
+    {
+      "id":9,
+      "name_skin":"9",
+      "skin_url":"https://cldup.com/2XWRDPx0fK.png",
+      "view_skin":"https://cldup.com/8fggajFpng.png"
+    },
+
+    {
+      "id":10,
+      "name_skin":"10",
+       "skin_url":"https://cldup.com/eGF49fUs4W.png",
+      "view_skin":"https://cldup.com/p3WtfjsJ1A.png"
+    },
+    {
+      "id":11,
+      "name_skin":"11",
+       "skin_url":"https://cldup.com/p5FQsoYq1B.png",
+      "view_skin":"https://cldup.com/nkvX6WiI8i.png"
+    },
+    {
+      "id":12,
+      "name_skin":"12",
+      "skin_url":"https://cldup.com/mCzUuvqCeE.png",
+      "view_skin":"https://cldup.com/eFYoVpbFdi.png"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
+
