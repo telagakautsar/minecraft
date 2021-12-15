@@ -46,38 +46,38 @@
   [
     {
       "id":1,
-      "name_skin":"1",
+      "name_skin":"satu",
       "skin_url":"https://cldup.com/IWj7NUx3qd.png",
       "view_skin":"https://cldup.com/ExmuTYtAAI.png"
     },
     {
       "id":2,
-      "name_skin":"2",
+      "name_skin":"dua",
       "skin_url":"https://cldup.com/lOesxwhL3q.png",
       "view_skin":"https://cldup.com/vwpnIA4wo6.png"
     },
     {
       "id":3,
-      "name_skin":"3",
+      "name_skin":"tiga",
       "skin_url":"https://cldup.com/tgU0cFNBhH.png",
       "view_skin":"https://cldup.com/2dJmn5slsH.png"
     },
 
     {
       "id":4,
-      "name_skin":"4",
+      "name_skin":"empat",
        "skin_url":"https://cldup.com/QYunWliTMq.png",
       "view_skin":"https://cldup.com/8ii4alWGP8.png"
     },
     {
       "id":5,
-      "name_skin":"5",
+      "name_skin":"lima",
        "skin_url":"https://cldup.com/UhvejF_sqP.png",
       "view_skin":"https://cldup.com/Zjzpjot84d.png"
     },
     {
       "id":6,
-      "name_skin":"6",
+      "name_skin":"enam",
        "skin_url":"https://cldup.com/-6qdiQT7R4.png",
       "view_skin":"https://cldup.com/f6d6AWcIrP.png"
     },
@@ -85,38 +85,38 @@
 
     {
       "id":7,
-      "name_skin":"7",
+      "name_skin":"tujuh",
        "skin_url":"https://cldup.com/t-GIUKkJUX.png",
       "view_skin":"https://cldup.com/1cMp2Zge-i.png"
     },
     {
       "id":8,
-      "name_skin":"8",
+      "name_skin":"delapan",
       "skin_url":"https://cldup.com/akOP-xluQf.png",
       "view_skin":"https://cldup.com/ThvETyiaZi.png"
     },
     {
       "id":9,
-      "name_skin":"9",
+      "name_skin":"sembilan",
       "skin_url":"https://cldup.com/2XWRDPx0fK.png",
       "view_skin":"https://cldup.com/8fggajFpng.png"
     },
 
     {
       "id":10,
-      "name_skin":"10",
+      "name_skin":"sepuluh",
        "skin_url":"https://cldup.com/eGF49fUs4W.png",
       "view_skin":"https://cldup.com/p3WtfjsJ1A.png"
     },
     {
       "id":11,
-      "name_skin":"11",
+      "name_skin":"sebelas",
        "skin_url":"https://cldup.com/p5FQsoYq1B.png",
       "view_skin":"https://cldup.com/nkvX6WiI8i.png"
     },
     {
       "id":12,
-      "name_skin":"12",
+      "name_skin":"duabelas",
       "skin_url":"https://cldup.com/mCzUuvqCeE.png",
       "view_skin":"https://cldup.com/eFYoVpbFdi.png"
     }
