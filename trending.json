@@ -348,6 +348,78 @@
       "name_skin":"M H A 5",
       "skin_url":"https://i.namemc-static.com/82c3a7fc0ade69db.png",
       "view_skin":"https://r.namemc-static.com/skin/body.png?id=82c3a7fc0ade69db&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	  {
+      "id":51,
+      "name_skin":"One Piece",
+      "skin_url":"https://i.namemc-static.com/80185e1be09e31cd.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=80185e1be09e31cd&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":52,
+      "name_skin":"One Piece",
+      "skin_url":"https://i.namemc-static.com/afb717cfc1a253f9.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=afb717cfc1a253f9&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":53,
+      "name_skin":"One Piece",
+      "skin_url":"https://i.namemc-static.com/a2c9e40b1eaf39e2.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=a2c9e40b1eaf39e2&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":54,
+      "name_skin":"One Piece",
+      "skin_url":"https://i.namemc-static.com/6a8a7079f398adda.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=6a8a7079f398adda&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":55,
+      "name_skin":"One Piece",
+      "skin_url":"https://i.namemc-static.com/8ec23f98b24ee83f.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=8ec23f98b24ee83f&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	 {
+      "id":56,
+      "name_skin":"One Piece",
+      "skin_url":"https://i.namemc-static.com/b9b4df4ca078d7ee.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=b9b4df4ca078d7ee&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":57,
+      "name_skin":"Zero Two",
+      "skin_url":"https://i.namemc-static.com/632cb89706b43a29.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=632cb89706b43a29&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":58,
+      "name_skin":"Zero Two",
+      "skin_url":"https://i.namemc-static.com/a87f7c33a6295cab.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=a87f7c33a6295cab&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":59,
+      "name_skin":"Zero Two",
+      "skin_url":"https://i.namemc-static.com/a272451557c2f412.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=a272451557c2f412&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":60,
+      "name_skin":"Zero Two",
+      "skin_url":"https://i.namemc-static.com/1dbfce3205f34c6c.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=1dbfce3205f34c6c&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	 {
+      "id":61,
+      "name_skin":"Zero Two",
+      "skin_url":"https://i.namemc-static.com/a9efac8bad40504b.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=a9efac8bad40504b&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":62,
+      "name_skin":"Zero Two",
+      "skin_url":"https://i.namemc-static.com/5c0603f4f7048a2f.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=5c0603f4f7048a2f&model=classic&theta=30&phi=21&time=90&width=600&height=800"
     }
   ],
   "Addons":
