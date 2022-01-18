@@ -45,222 +45,6 @@
   ],
   "Skin":
   [
-	      {
-      "id":63,
-      "name_skin":"Demon Slayer",
-      "skin_url":"https://i.namemc-static.com/6233b270940d9eb1.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=6233b270940d9eb1&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":64,
-      "name_skin":"Demon Slayer",
-      "skin_url":"https://i.namemc-static.com/cb702c9bb45167ec.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=cb702c9bb45167ec&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":65,
-      "name_skin":"Demon Slayer",
-      "skin_url":"https://i.namemc-static.com/1826ee434e8456d2.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=1826ee434e8456d2&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":66,
-      "name_skin":"Naruto ",
-      "skin_url":"https://i.namemc-static.com/0f2c9a15bd13b738.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=0f2c9a15bd13b738&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":67,
-      "name_skin":"Naruto ",
-      "skin_url":"https://i.namemc-static.com/de35eaba1f118711.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=de35eaba1f118711&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":68,
-      "name_skin":"Naruto ",
-      "skin_url":"https://i.namemc-static.com/b706661a04bab529.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=b706661a04bab529&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":69,
-      "name_skin":"Tokyo Ghoul ",
-      "skin_url":"https://i.namemc-static.com/db5982e2c5889427.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=db5982e2c5889427&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":70,
-      "name_skin":"Tokyo Ghoul ",
-      "skin_url":"https://i.namemc-static.com/ec3c0d899b044cf4.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=ec3c0d899b044cf4&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":71,
-      "name_skin":"Tokyo Ghoul ",
-      "skin_url":"https://i.namemc-static.com/b61cc2c1caf81ffb.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=b61cc2c1caf81ffb&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":72,
-      "name_skin":"Death Note ",
-      "skin_url":"https://i.namemc-static.com/4120585014cbc0de.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=4120585014cbc0de&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":73,
-      "name_skin":"Death Note ",
-      "skin_url":"https://i.namemc-static.com/ae9f18dc47f9e7c4.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=ae9f18dc47f9e7c4&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":74,
-      "name_skin":"Death Note",
-      "skin_url":"https://i.namemc-static.com/6577a1a2e521c626.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=6577a1a2e521c626&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":75,
-      "name_skin":"M H A  ",
-      "skin_url":"https://i.namemc-static.com/ae7edb51de6c76c8.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=ae7edb51de6c76c8&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":76,
-      "name_skin":"M H A ",
-      "skin_url":"https://i.namemc-static.com/7302f496bd1acd75.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=7302f496bd1acd75&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":77,
-      "name_skin":"M H A ",
-      "skin_url":"https://i.namemc-static.com/8eda83e8c20433aa.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=8eda83e8c20433aa&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":78,
-      "name_skin":"One Piece",
-      "skin_url":"https://i.namemc-static.com/80185e1be09e31cd.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=80185e1be09e31cd&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":79,
-      "name_skin":"One Piece",
-      "skin_url":"https://i.namemc-static.com/afb717cfc1a253f9.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=afb717cfc1a253f9&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":80,
-      "name_skin":"One Piece",
-      "skin_url":"https://i.namemc-static.com/a2c9e40b1eaf39e2.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=a2c9e40b1eaf39e2&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":81,
-      "name_skin":"Zero Two",
-      "skin_url":"https://i.namemc-static.com/632cb89706b43a29.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=632cb89706b43a29&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":82,
-      "name_skin":"Zero Two",
-      "skin_url":"https://i.namemc-static.com/a87f7c33a6295cab.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=a87f7c33a6295cab&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":83,
-      "name_skin":"Zero Two",
-      "skin_url":"https://i.namemc-static.com/a272451557c2f412.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=a272451557c2f412&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":84,
-      "name_skin":"Hunter X Hunter",
-      "skin_url":"https://i.namemc-static.com/41be51bef0e36b94.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=41be51bef0e36b94&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":85,
-      "name_skin":"Hunter X Hunter",
-      "skin_url":"https://i.namemc-static.com/bd8a75a9313e96ea.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=bd8a75a9313e96ea&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":86,
-      "name_skin":"Hunter X Hunter",
-      "skin_url":"https://i.namemc-static.com/f6fcd6532d5d1c46.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=f6fcd6532d5d1c46&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	  {
-      "id":87,
-      "name_skin":"A O T",
-      "skin_url":"https://i.namemc-static.com/85233ee63afa2ff3.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=85233ee63afa2ff3&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":88,
-      "name_skin":"A O T",
-      "skin_url":"https://i.namemc-static.com/9dfacdfad13dedae.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=9dfacdfad13dedae&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":89,
-      "name_skin":"A O T",
-      "skin_url":"https://i.namemc-static.com/216ea799e99eda67.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=216ea799e99eda67&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":90,
-      "name_skin":"Saitama",
-      "skin_url":"https://i.namemc-static.com/37001f955c10f5bc.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=37001f955c10f5bc&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":91,
-      "name_skin":"Saitama",
-      "skin_url":"https://i.namemc-static.com/d1fb3ba015c50b89.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=d1fb3ba015c50b89&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":92,
-      "name_skin":"Saitama",
-      "skin_url":"https://i.namemc-static.com/d98d1221e3588c78.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=d98d1221e3588c78&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":93,
-      "name_skin":"Dragon Ball",
-      "skin_url":"https://i.namemc-static.com/8629b95b465e7bff.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=8629b95b465e7bff&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":94,
-      "name_skin":"Dragon Ball",
-      "skin_url":"https://i.namemc-static.com/b7670f1e96ae7221.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=b7670f1e96ae7221&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":95,
-      "name_skin":"Dragon Ball",
-      "skin_url":"https://i.namemc-static.com/0cd7908577539c11.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=0cd7908577539c11&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":96,
-      "name_skin":"Black Clover",
-      "skin_url":"https://i.namemc-static.com/722008a5a6de69f2.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=722008a5a6de69f2&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":97,
-      "name_skin":"Black Clover",
-      "skin_url":"https://i.namemc-static.com/ed5d3a5ac99b1669.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=ed5d3a5ac99b1669&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
-	{
-      "id":98,
-      "name_skin":"Black Clover",
-      "skin_url":"https://i.namemc-static.com/f761c9033d9a7c50.png",
-      "view_skin":"https://r.namemc-static.com/skin/body.png?id=f761c9033d9a7c50&model=slim&theta=30&phi=21&time=90&width=600&height=800"
-    },
     {
       "id":1,
       "name_skin":"Batman",
@@ -636,7 +420,223 @@
       "name_skin":"Zero Two",
       "skin_url":"https://i.namemc-static.com/5c0603f4f7048a2f.png",
       "view_skin":"https://r.namemc-static.com/skin/body.png?id=5c0603f4f7048a2f&model=classic&theta=30&phi=21&time=90&width=600&height=800"
-    }
+    },
+	  	      {
+      "id":63,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://i.namemc-static.com/6233b270940d9eb1.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=6233b270940d9eb1&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":64,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://i.namemc-static.com/cb702c9bb45167ec.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=cb702c9bb45167ec&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":65,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://i.namemc-static.com/1826ee434e8456d2.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=1826ee434e8456d2&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":66,
+      "name_skin":"Naruto ",
+      "skin_url":"https://i.namemc-static.com/0f2c9a15bd13b738.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=0f2c9a15bd13b738&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":67,
+      "name_skin":"Naruto ",
+      "skin_url":"https://i.namemc-static.com/de35eaba1f118711.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=de35eaba1f118711&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":68,
+      "name_skin":"Naruto ",
+      "skin_url":"https://i.namemc-static.com/b706661a04bab529.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=b706661a04bab529&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":69,
+      "name_skin":"Tokyo Ghoul ",
+      "skin_url":"https://i.namemc-static.com/db5982e2c5889427.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=db5982e2c5889427&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":70,
+      "name_skin":"Tokyo Ghoul ",
+      "skin_url":"https://i.namemc-static.com/ec3c0d899b044cf4.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=ec3c0d899b044cf4&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":71,
+      "name_skin":"Tokyo Ghoul ",
+      "skin_url":"https://i.namemc-static.com/b61cc2c1caf81ffb.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=b61cc2c1caf81ffb&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":72,
+      "name_skin":"Death Note ",
+      "skin_url":"https://i.namemc-static.com/4120585014cbc0de.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=4120585014cbc0de&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":73,
+      "name_skin":"Death Note ",
+      "skin_url":"https://i.namemc-static.com/ae9f18dc47f9e7c4.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=ae9f18dc47f9e7c4&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":74,
+      "name_skin":"Death Note",
+      "skin_url":"https://i.namemc-static.com/6577a1a2e521c626.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=6577a1a2e521c626&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":75,
+      "name_skin":"M H A  ",
+      "skin_url":"https://i.namemc-static.com/ae7edb51de6c76c8.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=ae7edb51de6c76c8&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":76,
+      "name_skin":"M H A ",
+      "skin_url":"https://i.namemc-static.com/7302f496bd1acd75.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=7302f496bd1acd75&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":77,
+      "name_skin":"M H A ",
+      "skin_url":"https://i.namemc-static.com/8eda83e8c20433aa.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=8eda83e8c20433aa&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":78,
+      "name_skin":"One Piece",
+      "skin_url":"https://i.namemc-static.com/80185e1be09e31cd.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=80185e1be09e31cd&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":79,
+      "name_skin":"One Piece",
+      "skin_url":"https://i.namemc-static.com/afb717cfc1a253f9.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=afb717cfc1a253f9&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":80,
+      "name_skin":"One Piece",
+      "skin_url":"https://i.namemc-static.com/a2c9e40b1eaf39e2.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=a2c9e40b1eaf39e2&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":81,
+      "name_skin":"Zero Two",
+      "skin_url":"https://i.namemc-static.com/632cb89706b43a29.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=632cb89706b43a29&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":82,
+      "name_skin":"Zero Two",
+      "skin_url":"https://i.namemc-static.com/a87f7c33a6295cab.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=a87f7c33a6295cab&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":83,
+      "name_skin":"Zero Two",
+      "skin_url":"https://i.namemc-static.com/a272451557c2f412.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=a272451557c2f412&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":84,
+      "name_skin":"Hunter X Hunter",
+      "skin_url":"https://i.namemc-static.com/41be51bef0e36b94.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=41be51bef0e36b94&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":85,
+      "name_skin":"Hunter X Hunter",
+      "skin_url":"https://i.namemc-static.com/bd8a75a9313e96ea.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=bd8a75a9313e96ea&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":86,
+      "name_skin":"Hunter X Hunter",
+      "skin_url":"https://i.namemc-static.com/f6fcd6532d5d1c46.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=f6fcd6532d5d1c46&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	  {
+      "id":87,
+      "name_skin":"A O T",
+      "skin_url":"https://i.namemc-static.com/85233ee63afa2ff3.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=85233ee63afa2ff3&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":88,
+      "name_skin":"A O T",
+      "skin_url":"https://i.namemc-static.com/9dfacdfad13dedae.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=9dfacdfad13dedae&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":89,
+      "name_skin":"A O T",
+      "skin_url":"https://i.namemc-static.com/216ea799e99eda67.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=216ea799e99eda67&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":90,
+      "name_skin":"Saitama",
+      "skin_url":"https://i.namemc-static.com/37001f955c10f5bc.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=37001f955c10f5bc&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":91,
+      "name_skin":"Saitama",
+      "skin_url":"https://i.namemc-static.com/d1fb3ba015c50b89.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=d1fb3ba015c50b89&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":92,
+      "name_skin":"Saitama",
+      "skin_url":"https://i.namemc-static.com/d98d1221e3588c78.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=d98d1221e3588c78&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":93,
+      "name_skin":"Dragon Ball",
+      "skin_url":"https://i.namemc-static.com/8629b95b465e7bff.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=8629b95b465e7bff&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":94,
+      "name_skin":"Dragon Ball",
+      "skin_url":"https://i.namemc-static.com/b7670f1e96ae7221.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=b7670f1e96ae7221&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":95,
+      "name_skin":"Dragon Ball",
+      "skin_url":"https://i.namemc-static.com/0cd7908577539c11.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=0cd7908577539c11&model=classic&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":96,
+      "name_skin":"Black Clover",
+      "skin_url":"https://i.namemc-static.com/722008a5a6de69f2.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=722008a5a6de69f2&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":97,
+      "name_skin":"Black Clover",
+      "skin_url":"https://i.namemc-static.com/ed5d3a5ac99b1669.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=ed5d3a5ac99b1669&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
+	{
+      "id":98,
+      "name_skin":"Black Clover",
+      "skin_url":"https://i.namemc-static.com/f761c9033d9a7c50.png",
+      "view_skin":"https://r.namemc-static.com/skin/body.png?id=f761c9033d9a7c50&model=slim&theta=30&phi=21&time=90&width=600&height=800"
+    },
   ],
   "Addons":
   [
