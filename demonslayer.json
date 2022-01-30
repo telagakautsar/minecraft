@@ -1,0 +1,478 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  
+  "Skin":
+  [
+    {
+       "id":1,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/1a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/1.png"
+    },
+    {
+      "id":2,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/2a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/2.png"
+    },
+	{
+      "id":3,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/3a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/3.png"
+    },
+	{
+      "id":4,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/4a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/4.png"
+    },
+	{
+      "id":5,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/5a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/5.png"
+    },
+	{
+      "id":6,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/6a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/6.png"
+    },
+	{
+      "id":7,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/7a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/7.png"
+    },
+	{
+      "id":8,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/8a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/8.png"
+    },
+	{
+      "id":9,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/9a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/9.png"
+    },
+	{
+      "id":10,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/10a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/10.png"
+    },
+	{
+      "id":11,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/11a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/11.png"
+    },
+	{
+      "id":12,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/12a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/12.png"
+    },
+	{
+      "id":13,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/13a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/13.png"
+    },
+	{
+      "id":14,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/14a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/14.png"
+    },
+	{
+      "id":15,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/15a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/15.png"
+    },
+	{
+      "id":16,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/16a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/16.png"
+    },
+	{
+      "id":17,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/17a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/17.png"
+    },
+	{
+      "id":18,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/18a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/18.png"
+    },
+	{
+      "id":19,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/19a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/19.png"
+    },
+	{
+      "id":20,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/20a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/20.png"
+    },
+	{
+      "id":21,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/21a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/21.png"
+    },
+	{
+      "id":22,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/22a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/22.png"
+    },
+	{
+      "id":23,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/23a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/23.png"
+    },
+	{
+      "id":24,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/24a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/24.png"
+    },
+	{
+      "id":25,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/25a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/25.png"
+    },
+	{
+      "id":26,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/26a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/26.png"
+    },
+	{
+      "id":27,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/27a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/27.png"
+    },
+	{
+      "id":28,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/28a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/28.png"
+    },
+	{
+      "id":29,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/29a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/29.png"
+    },
+	{
+      "id":30,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/30a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/30.png"
+    },
+	{
+      "id":31,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/31a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/31.png"
+    },
+	{
+      "id":32,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/32a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/32.png"
+    },
+	{
+      "id":33,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/33a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/33.png"
+    },
+	{
+      "id":34,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/34a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/34.png"
+    },
+	{
+      "id":35,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/35a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/35.png"
+    },
+	{
+      "id":36,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/36a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/36.png"
+    },
+	{
+      "id":37,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/37a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/37.png"
+    },
+	{
+      "id":38,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/38a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/38.png"
+    },
+	{
+      "id":39,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/39a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/39.png"
+    },
+	{
+      "id":40,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/40a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/40.png"
+    },
+	{
+      "id":41,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/41a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/41.png"
+    },
+	{
+      "id":42,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/42a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/42.png"
+    },
+	{
+      "id":43,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/43a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/43.png"
+    },
+	{
+      "id":44,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/44a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/44.png"
+    },
+	{
+      "id":45,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/45a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/45.png"
+    },
+	{
+      "id":46,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/46a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/46.png"
+    },
+	{
+      "id":47,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/47a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/47.png"
+    },
+	{
+      "id":48,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/48a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/48.png"
+    },
+	{
+      "id":49,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/49a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/49.png"
+    },
+	{
+      "id":50,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/50a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/50.png"
+    },
+	{
+      "id":51,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/51a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/51.png"
+    },
+	{
+      "id":52,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/52a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/52.png"
+    },
+	{
+      "id":53,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/53a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/53.png"
+    },
+	{
+      "id":54,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/54a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/54.png"
+    },
+	{
+      "id":55,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/55a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/55.png"
+    },
+	{
+      "id":56,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/56a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/56.png"
+    },
+	{
+      "id":57,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/57a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/57.png"
+    },
+	{
+      "id":58,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/58a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/58.png"
+    },
+	{
+      "id":59,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/59a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/59.png"
+    },
+	{
+      "id":60,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/60a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/60.png"
+    },
+	{
+      "id":61,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/61a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/61.png"
+    },
+	{
+      "id":62,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/62a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/62.png"
+    },
+	{
+      "id":63,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/63a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/63.png"
+    },
+	{
+      "id":64,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/64a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/64.png"
+    },
+	{
+      "id":65,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/65a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/65.png"
+    },
+	{
+      "id":66,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/66a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/66.png"
+    },
+	{
+      "id":67,
+      "name_skin":"Demon Slayer",
+      "skin_url":"https://kerikil.xyz/skin/demonslayer/67a.png",
+      "view_skin":"https://kerikil.xyz/skin/demonslayer/67.png"
+    }
+    
+	
+	
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ]
+}
+
