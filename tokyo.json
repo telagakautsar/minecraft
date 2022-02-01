@@ -1,0 +1,363 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  
+  "Skin":
+  [
+    {
+       "id":1,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/1a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/1.png"
+    },
+    {
+      "id":2,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/2a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/2.png"
+    },
+	{
+      "id":3,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/3a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/3.png"
+    },
+	{
+      "id":4,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/4a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/4.png"
+    },
+	{
+      "id":5,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/5a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/5.png"
+    },
+	{
+      "id":6,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/6a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/6.png"
+    },
+	{
+      "id":7,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/7a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/7.png"
+    },
+	{
+      "id":8,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/8a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/8.png"
+    },
+	{
+      "id":9,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/9a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/9.png"
+    },
+	{
+      "id":10,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/10a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/10.png"
+    },
+	{
+      "id":11,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/11a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/11.png"
+    },
+	{
+      "id":12,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/12a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/12.png"
+    },
+	{
+      "id":13,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/13a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/13.png"
+    },
+	{
+      "id":14,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/14a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/14.png"
+    },
+	{
+      "id":15,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/15a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/15.png"
+    },
+	{
+      "id":16,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/16a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/16.png"
+    },
+	{
+      "id":17,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/17a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/17.png"
+    },
+	{
+      "id":18,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/18a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/18.png"
+    },
+	{
+      "id":19,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/19a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/19.png"
+    },
+	{
+      "id":20,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/20a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/20.png"
+    },
+	{
+      "id":21,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/21a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/21.png"
+    },
+	{
+      "id":22,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/22a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/22.png"
+    },
+	{
+      "id":23,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/23a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/23.png"
+    },
+	{
+      "id":24,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/24a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/24.png"
+    },
+	{
+      "id":25,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/25a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/25.png"
+    },
+	{
+      "id":26,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/26a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/26.png"
+    },
+	{
+      "id":27,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/27a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/27.png"
+    },
+	{
+      "id":28,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/28a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/28.png"
+    },
+	{
+      "id":29,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/29a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/29.png"
+    },
+	{
+      "id":30,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/30a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/30.png"
+    },
+	{
+      "id":31,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/31a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/31.png"
+    },
+	{
+      "id":32,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/32a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/32.png"
+    },
+	{
+      "id":33,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/33a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/33.png"
+    },
+	{
+      "id":34,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/34a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/34.png"
+    },
+	{
+      "id":35,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/35a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/35.png"
+    },
+	{
+      "id":36,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/36a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/36.png"
+    },
+	{
+      "id":37,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/37a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/37.png"
+    },
+	{
+      "id":38,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/38a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/38.png"
+    },
+	{
+      "id":39,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/39a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/39.png"
+    },
+	{
+      "id":40,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/40a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/40.png"
+    },
+	{
+      "id":41,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/41a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/41.png"
+    },
+	{
+      "id":42,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/42a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/42.png"
+    },
+	{
+      "id":43,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/43a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/43.png"
+    },
+	{
+      "id":44,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/44a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/44.png"
+    },
+	{
+      "id":45,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/45a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/45.png"
+    },
+	{
+      "id":46,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/46a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/46.png"
+    },
+	{
+      "id":47,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/47a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/47.png"
+    },
+	{
+      "id":48,
+      "name_skin":"Tokyo Revengers",
+      "skin_url":"https://kerikil.xyz/skin/tokyo/48a.png",
+      "view_skin":"https://kerikil.xyz/skin/tokyo/48.png"
+    }
+	
+    	
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ]
+}
+
